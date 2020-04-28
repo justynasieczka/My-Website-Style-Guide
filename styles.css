@@ -1,0 +1,106 @@
+body {
+  font-family: Raleway, Arial, sans-serif;
+  margin: 0 10%;
+}
+
+header {
+  margin: 50px 0;
+}
+
+header h1 {
+  text-align: center;
+}
+
+.container {
+  border: 2px rgb(153, 153, 153) solid;
+  margin: 20px auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.color-panel {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 32%;
+  height: 100px;
+  margin-bottom: 10px;
+  border: 1px rgb(153, 153, 153) solid;
+}
+
+.dark-salmon {
+  background-color: darksalmon;
+}
+
+.indian-red {
+  background-color: indianred;
+}
+
+.dark-olive-green {
+  background-color: darkolivegreen;
+}
+
+.blanched-almond {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  font-family: abril fatface;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: Playfair Display;
+}
+
+p {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+li {
+  font-family: Raleway;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+hr {
+  color: black;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.abril-fatface {
+  font-family: "Abril Fatface", sarif;
+}
+
+.playfair-display {
+  font-family: "Playfair Family";
+}
+
+.font-panel {
+  display: inline-block;
+  width: 45%;
+  vertical-align: top;
+}
+
+.font-label {
+  text-decoration: underline;
+}
+
+footer {
+  color: darksalmon;
+  text-align: center;
+  margin: 50px;
+}
